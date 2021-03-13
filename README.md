@@ -10,4 +10,4 @@ I have learned:
 4.Build & train RNNs, work with NLP & Word Embeddings, & use HuggingFace tokenizers & transformer models to perform tasks like NER & Question Answering  
 
 The skills i gained:  
-Artificial Neural Network  Convolutional Neural Network  Tensorflow  Recurrent Neural Network  Transformers
+Artificial Neural Network   Convolutional Neural Network   Tensorflow   Recurrent Neural Network   Transformers
