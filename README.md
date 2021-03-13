@@ -15,5 +15,3 @@ Convolutional Neural Network
 Tensorflow   
 Recurrent Neural Network   
 Transformers  
-
-Code mainly in Python
