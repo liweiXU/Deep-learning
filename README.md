@@ -14,4 +14,6 @@ Artificial Neural Network
 Convolutional Neural Network   
 Tensorflow   
 Recurrent Neural Network   
-Transformers
+Transformers  
+
+Code mainly in Python
