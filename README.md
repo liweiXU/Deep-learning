@@ -1,6 +1,6 @@
 # Deep-learning
 You can find more details of the specialisation from the site: https://www.coursera.org/specializations/deep-learning  
-Due to the Deep Learning Honor Code, it's not allowed to public my code on Github. So it's a pity that i can not present my code in this specialization.  
+Due to the Deep Learning Honor Code, it's not allowed to public my code on Github. So i can not present my code in this specialization.  
 But i would like to give a brief presentation of my working experience in this domain.  
 
 I have learned:   
@@ -10,8 +10,4 @@ I have learned:
 4.Build & train RNNs, work with NLP & Word Embeddings, & use HuggingFace tokenizers & transformer models to perform tasks like NER & Question Answering  
 
 The skills i gained:  
-1.Artificial Neural Network  
-2.Convolutional Neural Network  
-3.Tensorflow  
-4.Recurrent Neural Network  
-5.Transformers  
+Artificial Neural Network  Convolutional Neural Network  Tensorflow  Recurrent Neural Network  Transformers
