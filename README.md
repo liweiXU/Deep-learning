@@ -1,6 +1,6 @@
 # Deep-learning
 You can find more details of the specialisation from the site: https://www.coursera.org/specializations/deep-learning
-Due to the Deep Learning Honor Code, it's not allowed to public my code on Github. So it's a pity that i can not present my code in deep learning.
+Due to the Deep Learning Honor Code, it's not allowed to public my code on Github. So it's a pity that i can not present my code in this specialization.
 But i would like to give a brif presentation of my working experience in this domain.
 
 I have learned: 
